@@ -34,7 +34,11 @@ Software
 ####Node.js
 * http://nodejs.org/
 
+####NPM
+* ...
+
 ####Bower
+* Bower depends on Node and npm. It's installed globally using npm:
 ####Grunt
 ####Github
 ####WAMP
