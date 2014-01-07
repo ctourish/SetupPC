@@ -30,7 +30,10 @@ Software
     }`
   Save file as 'Chrome.sublime-build' (JSON FILE)
   Then set Chrome as the default from the list in Build system
+
 ####Node.js
+* http://nodejs.org/
+
 ####Bower
 ####Grunt
 ####Github
@@ -38,6 +41,7 @@ Software
 ####Eclipse
 
 * Android SDK
+
 ####GIMP
 ####VisualStudio201X
 Install extensions:
