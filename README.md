@@ -36,9 +36,11 @@ Software
 ####Github
 ####WAMP
 ####Eclipse
+
 * Android SDK
 ####GIMP
 ####VisualStudio201X
+
 * DPack
 * JSLint.NET for Visaul Studio
 * Microsoft ASP.NET and Web Tools
