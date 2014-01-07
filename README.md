@@ -40,9 +40,8 @@ Software
 * Android SDK
 ####GIMP
 ####VisualStudio201X
-
-* DPack
-* JSLint.NET for Visaul Studio
+  * DPack
+  * JSLint.NET for Visaul Studio
 * Microsoft ASP.NET and Web Tools
 * NuGet Package Manager
 * Productivity Power Tools 2012
