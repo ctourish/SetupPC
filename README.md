@@ -39,11 +39,11 @@ Software
 
 ####Bower
 * Bower depends on Node and npm. It's installed globally using npm:
+
 ####Grunt
 ####Github
 ####WAMP
 ####Eclipse
-
 * Android SDK
 
 ####GIMP
